@@ -36,7 +36,6 @@ The contribution of each team member on all of the content in this repository ca
 
 To further explain the technical functional and graphical design of the proof of concept, we have created a document called TFGD folder. This document contains a description of the proof of concept, the technical functional and graphical design of the proof of concept and a description of the user interface.
 
-
 ## License
 
 All contents of this repository is licensed under a GPL-3.0 license. See the LICENSE file for more information.
