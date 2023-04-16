@@ -22,7 +22,7 @@ dfl_loss                | 0.91771    | 0.82919
 
 ## Roboflow
 
-The model dataset can be found on https://app.roboflow.com/project-bat/project-oqaxk/overview
+The dataset original dataset be found on https://app.roboflow.com/project-bat/project-oqaxk/overview
 
 ## Technicalities
 
