@@ -34,7 +34,7 @@ The contribution of each team member on all of the content in this repository ca
 
 ## Technical Functional and Graphical Design for the Proof of concept
 
-To further explain the technical functional and graphical design of the proof of concept, we have created a document called `Technical, Functional and Graphical Design for POC.pdf`. This document contains a description of the proof of concept, the technical functional and graphical design of the proof of concept and a description of the user interface.
+To further explain the technical functional and graphical design of the proof of concept, we have created a document called `Technical, Functional and Graphical Design for POC.pdf`. This document contains a description of the proof of concept, the technical functional and graphical design of the proof of concept and a description of the user interface. The document can be found in the git repository.
 
 ## License
 
