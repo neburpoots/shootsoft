@@ -39,3 +39,8 @@ To further explain the technical functional and graphical design of the proof of
 ## License
 
 All contents of this repository is licensed under a GPL-3.0 license. See the LICENSE file for more information.
+
+## Location of github repository
+
+https://github.com/neburpoots/shootsoft/
+
