@@ -30,7 +30,7 @@ The model is trained with python 3.10.7 and requires ultralytics version 8.0.58 
 
 ## Division of tasks
 
-The contribution of each team member on all of the content in this repository can be found in the : `log`
+The contribution of each team member on all of the content in this repository can be found in the : `Contributions`
 
 ## Technical Functional and Graphical Design for the Proof of concept
 
