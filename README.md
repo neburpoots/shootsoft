@@ -1,1 +1,1 @@
-# shootsoftmodeldataset
+# Shootsoft model and dataset
